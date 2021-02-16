@@ -1,0 +1,9 @@
+name: Spellcheckr
+description: Annotates a build with any spelling errors found
+author: https://github.com/mkmrgn
+requirements: []
+configuration:
+  properties:
+    pattern:
+      type: string
+  additionalProperties: false
